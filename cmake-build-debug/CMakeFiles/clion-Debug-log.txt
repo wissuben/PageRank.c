@@ -1,0 +1,4 @@
+"/Users/wissu/Library/Application Support/JetBrains/Toolbox/apps/CLion-Nova/ch-0/241.14024.27/CLion 2024.1 EAP.app/Contents/bin/cmake/mac/aarch64/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/wissu/Library/Application Support/JetBrains/Toolbox/apps/CLion-Nova/ch-0/241.14024.27/CLion 2024.1 EAP.app/Contents/bin/ninja/mac/aarch64/ninja" -G Ninja -S /Users/wissu/Downloads/pr_td-6-2 -B /Users/wissu/Downloads/pr_td-6-2/cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/wissu/Downloads/pr_td-6-2/cmake-build-debug
